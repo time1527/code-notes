@@ -1,0 +1,90 @@
+============================================
+Running model: pretrain-999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into the room. She saw the toys and her friends. The kids were very excited.
+--------------------------------------------
+============================================
+Running model: pretrain-1999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-1999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into a big, red ball. She was very happy. She wanted to play with it all day. But the ball rolled away and broke. Lily was sad because she could not find her ball anymore.
+--------------------------------------------
+============================================
+Running model: pretrain-2999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-2999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into a small room with a big box. It was full of pretty things. Lily wanted to play with the box, but she didn't know how to open it.
+--------------------------------------------
+============================================
+Running model: pretrain-3999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-3999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her room. She saw the book on the shelf and wanted to read it with Ben. But Ben was not careful when he opened the book!
+--------------------------------------------
+============================================
+Running model: pretrain-4999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-4999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her room and saw the mess. She felt sad for her. Lily's mom told her to clean up the mess. Lily didn't want to do it again. She wanted to make her toys happy again. So, she cleaned the room with soap and water. Soon, her room was nice and tidy again. Lily was very happy.
+--------------------------------------------
+============================================
+Running model: pretrain-5999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-5999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her room. She saw that her room was not tidy. It was dirty and messy. She looked at her mom and dad. He said, "Mom, my room is messy now! Can you clean it?"
+--------------------------------------------
+============================================
+Running model: pretrain-6999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-6999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into the room. She saw the big wardrobe and wanted to open it. Lily was not scared. She tried and tried, but she could not open the wardrobe. Lily felt sad and started to cry.
+--------------------------------------------
+============================================
+Running model: pretrain-7999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-7999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her room and saw the lamp on the shelf. She wanted to touch it, but she knew it was not safe. She thought of a game to make her toys go away.
+--------------------------------------------
+============================================
+Running model: pretrain-8999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-8999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her house and saw the big box of cookies. She asked her mom, "Can I eat these cookies?" Her mom said, "Yes, but you must be patient." Lily was so excited! She knew she would have to wait and find the best cookies in the box.
+--------------------------------------------
+============================================
+Running model: pretrain-9999.pt
+============================================
+Command: python generate.py --rp 1.1 --template "" --prompt "One day, Lily came into " --path /root/autodl-tmp/llama/saves/pretrain-9999.pt
+--------------------------------------------
+Output:
+End by EOS.
+One day, Lily came into her room and saw that the door was open. She ran to the door and tried to open it. But she could not.
+--------------------------------------------

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "你好，我是皮卡，处女座！"
+    },
+    {
+        "role": "assistant",
+        "content": "你好，皮卡！有什么可以帮你的吗？"
+    }
+]

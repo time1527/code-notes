@@ -1,0 +1,10 @@
+*.drawio
+*.pyc
+# IDE
+.idea/
+# Python
+__pycache__/
+*.pt
+*.pth
+*.model
+*.vocab

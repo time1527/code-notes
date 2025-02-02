@@ -1,0 +1,100 @@
+============================================
+Running model: sft-999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once there was a girl named Lily who lived in a big house with her mom and dad. Lily loved to play with her toys and her dog, Max. One day, Lily's mom asked her to help decorate a table in the kitchen. Lily was happy to help. She got a cloth and put the decoration on the table. She was very careful not to spill the table.Lily's mom came into the kitchen and saw her decorating the table. She smiled and said, "Thank you, Lily. I had so much fun decorating the table all day!" Lily smiled and said, "Thank you, mom. I love you too!"
+--------------------------------------------
+============================================
+Running model: sft-1999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-1999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. She loved to play in her backyard, where she had many toys and games. One day, she saw a big box under a tree. She wanted to see what was inside, but it was too tall for her to reach.Lily decided to use her hands to lift the box and see if she could lift it up. She tried and tried, but it was still too heavy for her. She felt frustrated and sad.Just then, a friendly squirrel came along and saw Lily trying to lift the box. The squirrel showed her how to lift it and they had so much fun together. From that day on, Lily learned that sometimes things that seem hard can be hard, but if you are brave for yourself and others to help you.
+--------------------------------------------
+============================================
+Running model: sft-2999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-2999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. She loved to play outside in the sunshine and pick flowers. One day, she saw a big, shiny thing in the distance. It was a van! She was amazed and wanted to get a closer look.Lily asked her mommy if they could go to the van to get a better look. Her mommy said yes and they went to the van together. When they arrived, the driver gave them a big bag and they all went to the van together. Lily was so happy and excited. She picked the best toy and put it back in the van. From that day on, Lily knew that even the far away things can turn out to be amazing.
+--------------------------------------------
+============================================
+Running model: sft-3999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-3999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little boy named Timmy. Timmy loved to play in the park with his friends. One day, Timmy and his friends were playing on the swings when they noticed a big, hairy dog running towards them. Timmy was scared and didn't know what to do.Suddenly, they heard a knock on the door. Timmy's friends went to open it. When he opened the door, the dog ran away and Timmy's mom called him to come back. Timmy was sad that he couldn't play with his friends, but he knew that they were all going to be safe.After that, Timmy's mom called him back and told him to be more alert. Timmy nodded in agreement and went back to playing with his friends. From that day on, Timmy always looked out for any animals in the park and made sure to be extra careful when playing in the park.
+--------------------------------------------
+============================================
+Running model: sft-4999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-4999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. She loved to play outside and explore the world around her. One day, she saw an orange on the ground. It was so pretty and she wanted to touch it. She reached out her hand, but it slipped out of her hand and fell down.Lily tried to pick it up, but it was too heavy and she accidentally knocked it down. She felt sad and started to cry. But then, a kind man came along and helped her pick up the orange. He was so grateful and thanked her for being so kind.From that day on, Lily made sure to be careful around orange oranges. She knew that even little kids could be happy too. And every time she touched an orange, she smiled and felt happy knowing that she could still be a good friend. The end.
+--------------------------------------------
+============================================
+Running model: sft-5999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-5999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. Lily was feeling very sick. She had a cough and felt very hot. Her mommy gave her some hot cocoa to warm her up. The cocoa was very hot. Lily felt much better.Lily's mommy put some hot cocoa on Lily. Lily felt much better and started to eat it. She loved the taste of hot cocoa. Lily said, "Mommy, this hot cocoa tastes so good!" Her mommy said, "I'm so proud of you, Lily."Lily smiled and said, "Thank you, mommy. You are the best." Her mommy gave her some medicine to help her feel better. The end.
+--------------------------------------------
+============================================
+Running model: sft-6999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-6999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. One day, her mom asked her to clean up her toys. Lily didn't want to, but she knew it was important. So she put away all of her toys and went to bed early. The next morning, Lily woke up feeling refreshed. She told her mom that she was ready to go outside and play. Her mom smiled and said, "That was a good thing, Lily. You're so lucky that you listened to me."
+--------------------------------------------
+============================================
+Running model: sft-7999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-7999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a girl named Lily. She had a pink dress that she loved to wear. One day, Lily went to the park to play with her friends. She saw a boy named Jack and asked him if he could play with her. Jack said no and Lily felt sad.Suddenly, they saw a bird flying high in the sky. Lily's mom said, "Let's watch the bird together and see how it's flying!" They watched the bird for a while and watched it fly away.When they were done, Jack said goodbye to Lily and went home. He told Lily that his mom had a surprise for him. Lily was very happy and thanked Jack for the fun day. From that day on, she knew how to get her dress and how much she loved him.
+--------------------------------------------
+============================================
+Running model: sft-8999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-8999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. She had long, white hair that she loved to brush with her hair every day. One day, her mom said, "Lily, we have to go to the store to buy some food for dinner tonight. Do you remember?"Lily replied, "Yes, Mommy! I always remember when I went to the store. But I'm not sure if we can come back tomorrow when it's dark."So, Lily and her mom walked to the store together. When they got there, they bought some food for the family to eat and some hot dogs for them. Lily was happy to have some food and a cool bath.At the end of the trip, Lily said to her mom, "Thank you for remembering to come home with me tonight. I had so much fun!" Her mom smiled and said, "You're welcome, Lily. It was always a fun day for you."
+--------------------------------------------
+============================================
+Running model: sft-9999.pt
+============================================
+Command: python generate.py --prompt "Write a story about a girl named Lily." --path /root/autodl-tmp/llama/saves/sft-9999.pt
+--------------------------------------------
+Output:
+End by EOS.
+Human: Write a story about a girl named Lily.
+Assistant: Once upon a time, there was a little girl named Lily. She loved to eat candy and sweets all day long. One day, Lily was walking in the park when she saw a boy named Timmy. Timmy had a toy car that he was playing with every day. Lily asked Timmy why he had a toy car that he liked to play with.Timmy said, "I don't have any money to buy candy. Can I have some candy with me?"Lily said, "Sure, but I need to pay the price for the candy. Can you pay me with some candy?"Timmy smiled and said, "Sure thing, Lily. You don't need candy anymore. I can buy some more candy and make you laugh."Lily was happy and thanked Timmy for the candy. She continued to play with her toys and eat candy all day long. From that day on, Lily made sure to pay for candy every time she went to the park.
+--------------------------------------------
