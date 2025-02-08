@@ -3,8 +3,7 @@ import json
 
 from tool import tool_template
 
-prompt_template = """
-请尽可能准确地回答以下问题。你可以使用以下工具：
+prompt_template = """请尽可能准确地回答以下问题。你可以使用以下工具：
 
 {tool_desc}
 
@@ -22,8 +21,7 @@ Final Answer: 对原始问题的最终答案
 开始吧！
 
 Question: {prompt}  
-Thought: 
-"""
+Thought: """
 
 
 class ReAct:
@@ -104,14 +102,15 @@ class ReAct:
             thought, action, action_input = self.detect_tool(output)
             if action:
                 observation = self.call_tool(action, action_input)
-                taaio = f"Thought: {thought}\nAction: {action}\nAction Input: {action_input}\nObservation: {observation}\n"
+                taaio = f"{thought}\nAction: {action}\nAction Input: {action_input}\nObservation: {observation}\nThought: "
                 response += taaio
                 # taaio添加到user的消息中，来让llm继续生成
                 self.messages[-1]["content"] += taaio
             else:
                 response += output
                 # output添加到assistant的消息中
+                # why output not response: response里有一部分已经在user的消息里了，如果是response，重复内容过多
                 self.messages.append({"role": "assistant", "content": output})
                 break
 
-        return response
+        return "Thought: " + response

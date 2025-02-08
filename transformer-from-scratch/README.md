@@ -5,6 +5,10 @@
 >https://github.com/pytorch/data
 >
 >https://github.com/pytorch/tutorials/blob/885aa45bb5ca98884b014dd051a898121222d3d0/beginner_source/translation_transformer.py
+>
+>内容：
+>
+>transformer各个组件
 
 ## 环境
 

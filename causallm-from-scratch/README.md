@@ -62,8 +62,9 @@ python train.py --task sft
   <img src="./.assets/pretrain-loss.png" alt="预训练损失" style="width: 50%;">
   <img src="./.assets/sft-loss.png" alt="监督微调损失" style="width: 50%;">
 </div>
-
 ## 生成效果
+
+>如果要效果卓越，训练数据和超参数还需要更精心设计一些。step也要多一些。这里sft的训练数据instruct格式比较单一，steps也没很多。
 
 预训练：pretrain-results.txt
 
@@ -110,7 +111,7 @@ torch.Size([1, 1, 1, 3, 2]) -> torch.Size([1, 1, 1, 6])
 """
 ```
 
-**关于tokenizer**：bbpe的训练可以从两个方面着手，一个是huggingface的Trainer和Tokenizer，一个是SentencePiece。之前粗略写过SentencePiece的代码，这次直接整理了一下（其实就是之前照着llama2.c扒的）。如果之后模型训练打算用huggingface的Trainer的话，还是它们的比较方便。在https://github.com/huggingface/transformers/blob/main/src/transformers/convert_slow_tokenizer.py 中有一些SentencePiece转换成HF规格的函数/类，或许也会有帮助；也可以手动实现collate_fn。
+**关于tokenizer**：bbpe的训练可以从两个方面着手，一个是huggingface的Trainer和Tokenizer，一个是SentencePiece。之前粗略写过SentencePiece的代码，这次直接整理了一下（其实就是之前照着llama2.c扒的）。如果之后模型训练打算用huggingface的Trainer的话，还是它们的比较方便。在https://github.com/huggingface/transformers/blob/main/src/transformers/convert_slow_tokenizer.py 中有一些SentencePiece转换成HF规格的函数/类，或许也会有帮助；也可以手动实现collate_fn。以及，LlamaTokenizer可以加载SentencePiece训练的模型。
 
 **关于优化器**：我也没想到卡住进度的是优化器，在最初写的那版里，优化器直接使用了权重衰减，没有对层区分，导致loss先下降再上升再下降...现在的代码直接使用了llama2.c里的优化器函数。
 
