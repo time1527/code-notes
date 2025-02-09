@@ -6,15 +6,6 @@
 >
 > [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 >
-> 内容：
->
-> sentencepiece训练bbpe
->
-> llama模型架构：rope/gqa
->
-> 训练函数
->
-> 生成函数
 
 ## 环境
 

@@ -1,7 +1,3 @@
->内容：
->
->agent各个组件简易实现
-
 ## 环境
 
 ```ps
@@ -11,7 +7,7 @@ pip install openai
 pip install pytz
 ```
 
-需要额外开个环境起一个模型来适配openai格式。
+需要额外开个环境起一个模型来适配openai格式，或者搞个能够openai格式的api。
 
 ## 运行
 
