@@ -57,9 +57,9 @@ python train.py --task sft
 
 >如果要效果卓越，训练数据和超参数还需要更精心设计一些。step也要多一些。这里sft的训练数据instruct格式比较单一，steps也没很多。
 
-预训练：pretrain-results.txt
+预训练：[pretrain-results.txt](./pretrain-results.txt)
 
-监督微调：sft-results.txt
+监督微调：[sft-results.txt](./sft-results.txt)
 
 ## some
 
